@@ -1,0 +1,16 @@
+{
+  "name": "coinflipbot-twitter",
+  "version": "1.0.0",
+  "description": "Coinflipbot for twitter",
+  "main": "app.js",
+  "author": "halfpastfour.am",
+  "license": "AGPL-3.0",
+  "private": true,
+  "engines": {
+    "node": ">=10.4.1"
+  },
+  "dependencies": {
+    "redis": "^2.8.0",
+    "twit": "^2.2.11"
+  }
+}
